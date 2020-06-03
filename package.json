@@ -1,0 +1,31 @@
+{
+  "name": "rle-serializers",
+  "version": "0.0.0",
+  "description": "Serialize and Deserialize Run Length Encoding",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielJDufour/rle-serializers.git"
+  },
+  "keywords": [
+    "rle",
+    "encoding",
+    "serializers",
+    "run-length",
+    "run",
+    "length",
+    "csv"
+  ],
+  "author": "Daniel J. Dufour",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/DanielJDufour/rle-serializers/issues"
+  },
+  "homepage": "https://github.com/DanielJDufour/rle-serializers#readme",
+  "devDependencies": {
+    "ava": "^3.8.2"
+  }
+}
